@@ -7,7 +7,7 @@ I'm from class: L4AC.<br>
 
 Here is the documentation of the endpoint: <br>
 
-![alt text] (https://github.com/willamjonathan/WADS_FastAPI/blob/master/endpoint.png)
+![alt text](https://github.com/willamjonathan/WADS_FastAPI/blob/master/endpoint.png)
 
 
 
