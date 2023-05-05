@@ -11,6 +11,6 @@ Here is the documentation of the endpoint: <br>
 
 
 
-<br><br><br>
+<br>
 
 Thanks!!<br>
